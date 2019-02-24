@@ -19,6 +19,9 @@ The sources tab in Chrome lets u see many of the files/documents that are on the
 I.e. you are on a website and you go to the sources, you might see the index.html, style.css and script.js which are all linked in the same
 html document.
 
+There are also other "actions" you can use the sources tab for, like going into the script and making breakpoints, which will stop code from
+executing, so you can find exactly where a problem is in the code.
+
 5. What is a JavaScript Promise?
 A JavaScript Promise is the eventual resilt of an async operation. Sort of like a placeholder with the succesful or failed value.
 
