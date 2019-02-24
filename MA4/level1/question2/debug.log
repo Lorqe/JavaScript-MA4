@@ -1,0 +1,6 @@
+[0224/162457.069:ERROR:file_io_win.cc(179)] CreateFile C:\Program Files (x86)\temp\settings.dat: Ingen tilgang. (0x5)
+[0224/162457.073:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: Datakanalen er avsluttet. (0x6D)
+[0224/162457.075:ERROR:file_io_win.cc(179)] CreateFile C:\Program Files (x86)\temp\settings.dat: Ingen tilgang. (0x5)
+[0224/162634.601:ERROR:file_io_win.cc(179)] CreateFile C:\Program Files (x86)\temp\settings.dat: Ingen tilgang. (0x5)
+[0224/162634.604:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: Datakanalen er avsluttet. (0x6D)
+[0224/162634.606:ERROR:file_io_win.cc(179)] CreateFile C:\Program Files (x86)\temp\settings.dat: Ingen tilgang. (0x5)

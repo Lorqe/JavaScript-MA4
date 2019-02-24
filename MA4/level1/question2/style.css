@@ -1,0 +1,52 @@
+.main-content {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: flex-start;
+}
+
+.todoCard {
+    border: 1px solid #022f4d;
+    width: 300px;
+    margin-bottom: 20px;
+}
+
+h1 {
+    font-size: 22px;
+    font-family: Open Sans;
+    font-weight: 700;
+    color: #022f4d;
+    text-align: center;
+    padding: 20px 0 0 0;
+}
+
+h2 {
+    font-size: 16px;
+    font-family: Open Sans;
+    font-weight: 400;
+    text-align: center;
+    padding: 20px;
+}
+
+.status {
+    padding: 10px 15px;
+    background: #022f4d;
+    font-weight: 700;
+    font-family: Open Sans;
+    border: 1px solid #022f4d;
+    border-radius: 4px;
+    color: #fff;
+    text-transform: uppercase;
+    margin: 10px 0;
+}
+
+.btnarea {
+    text-align: center;
+    background: #f4f6f7;
+}
+
